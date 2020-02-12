@@ -1,0 +1,5 @@
+site_name: Brian Liotti
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
